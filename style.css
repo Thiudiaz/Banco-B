@@ -1,0 +1,23 @@
+.body {
+    background-color: yellow;
+    color: blue;
+    height: 10pt;
+    justify-content: center;
+
+}
+
+.imagem {
+    width: 30px;
+    height: auto;
+}
+
+.titulo {
+    height: auto;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.head {
+    position: absolute;
+}
